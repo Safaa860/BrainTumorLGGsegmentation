@@ -1,4 +1,4 @@
-# BrainTumorLGGsegmentation
+# BrainTumorSegmentation
 Medical Image Segmentation using U-Net
 This repository contains code for training a U-Net model for medical image segmentation. The U-Net architecture is a popular choice for segmenting regions of interest in medical images.
 
